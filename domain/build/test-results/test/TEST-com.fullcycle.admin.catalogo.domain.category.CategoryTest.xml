@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.admin.catalogo.domain.category.CategoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-20T14:09:54" hostname="nbr-77ttvd3" time="0.032">
+  <properties/>
+  <testcase name="givenValidParams_whenCallNewCategory_thenInstantiateACategory()" classname="com.fullcycle.admin.catalogo.domain.category.CategoryTest" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
